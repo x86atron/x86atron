@@ -6,7 +6,7 @@
  * @source https://github.com/DiscordStyles/Oreocord
  */
 
-@import url("https://raw.githubusercontent.com/x86atron/Oreocord/main/theme/Oreocord.css");
+@import url("https://x86atron.com/themes/Oreocord.theme.css");
 @import url("https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css");
 
 /*
@@ -27,12 +27,12 @@ paste it between the left and right parenthesis after "var."
 
 /* Custom Home Icon */
 .childWrapper_a6ce15 {
-    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjI1IiBoZWlnaHQ9IjE0MC4zMyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNTkuNTMxIDM3LjEzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICAgICAgICAgICAgPHBhdGggZD0ibTMuMzk2MiA1ZS00LTMuMzk2MiAzLjM5NiA5LjQ4MTUgOS40ODItOS40ODE1IDkuNDgxNSAzLjM5NjYgMy4zOTY2IDkuNDgxNS05LjQ4MiA4LjUxIDguNTEwNGMtLjc2MTc2IDEuMzI5NC0uOTQyMTcgMi42MDg2LS45NDIxNyAzLjUxNDkgMCA0Ljg3ODkgNC41NDEgOC43NTUyIDExLjEwMSA4Ljc1NTIgNC4xNzcyIDAgNy4zNTE3LTEuNTU1OCA5LjE2NDMtMy42NjI1IDEuNTU1NCAxLjkxMzMgNC40MzE0IDMuNzM2OCA4LjMxNTYgMy43MzY4IDUuODEwOSAwIDEwLjUwNS00LjUgMTAuNTA1LTkuNzIzMiAwLTUuMjIzMi00LjIyMjktOS42NDgtMTAuNTA1LTkuNjQ4LTIuNzM3MiAwLTQuODE1NS45NzY2LTYuMzIxMiAyLjE0MDQuNzczNTEtNC41ODE5IDMuMjc0NS03Ljk4MTIgNi45NTQzLTcuOTgxMiAyLjQ1OTEgMCA0LjExMjMgMS4wMTcxIDYuNDU5OCAzLjM2NDRsMy4wNTM2LTMuNzAxNWMtMi43MTk5LTIuNzE5OS01LjY2NjQtNC4yNS05LjgwNTUtNC4yNS00LjEzODkgMC03LjYwOTUgMi45OTA3LTguNjI1MiA0Ljc1MDItMi4xMDU0LTMuMzI5Ny01LjM5OTYtNC42NzU1LTkuMTk2Mi00LjY3NTUtNS4zOTY5IDAtMTAuMjA3IDMuNTEyMy0xMC4yMDcgOC4yMzMyIDAgLjg1Mzc1LjE0NDYxIDEuODcxOC42MTYyOCAyLjkyMTRsLTUuNjgxNy01LjY4MTcgOS40ODE1LTkuNDgyLTMuMzk2Mi0zLjM5Ni05LjQ4MiA5LjQ4MnptMjguMTUgMTEuOTkyYzMuMDQ5MyAwIDUuMzU5NSAxLjUyMjggNS4zNTk1IDMuNzIxIDAgMi41MTItMi43MDc0IDMuOTQ0Ny01LjM1OTUgMy45NDQ3LTIuNjUyNCAwLTUuMzU5NS0xLjQzMjgtNS4zNTk1LTMuOTQ0NyAwLTIuMTk4NyAyLjMxMDktMy43MjEgNS4zNTk1LTMuNzIxem0xNy40OCAxMC4yNzhjMy41MjU1IDAgNS42NTc5IDIuNjIxNCA1LjY1NzkgNS4xMzYzIDAgMi41MTQ4LTIuMTMyMyA1LjEzNjMtNS42NTc5IDUuMTM2My0zLjUyNTUgMC01Ljg0MzctMi43MzM1LTUuODQzNy01LjEzNjMgMC0yLjQwMjcgMi4zMTgtNS4xMzYzIDUuODQzNy01LjEzNjN6bS0xNy40OCAxLjg2MjRjMy42NTQyIDAgNi4yNTMyIDEuODM3NSA2LjI1MzIgNC4yNDI0IDAgMi4yNTM1LTIuNDM1NSA0LjA5MzMtNi4yNTMyIDQuMDkzMy0zLjgxNzcgMC02LjI1MzItMS44Mzk4LTYuMjUzMi00LjA5MzMgMC0yLjQwNDcgMi41OTg4LTQuMjQyNCA2LjI1MzItNC4yNDI0eiIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2Utd2lkdGg6MCIvPgogICAgICAgICAgICAgICA8L3N2Zz4=); /* Set None to one of the icons, or your own image */
+    background-image: none; /* Set None to one of the icons, or your own image */
 }
 
 /* Default Home Icon */
 .childWrapper_a6ce15 svg {
-    display: none; /* Set to None to hide */
+    display: block; /* Set to None to hide */
 }
 
 /* Window Title */
